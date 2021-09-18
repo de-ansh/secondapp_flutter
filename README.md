@@ -9,6 +9,7 @@ This project is a starting point for a Flutter application.
 A few resources to get you started if this is your first Flutter project:
 
 This is just an basic flutter app which gives a endless list of random words.
+In this build i have added Ui in my application so that user can interacrt.
 
 
 
